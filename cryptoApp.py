@@ -6,7 +6,7 @@ import tweepy
 import time
 import nltk
 nltk.download('stopwords')
-
+nltk.download('wordnet')
 import plotly.express as px
 import plotly.graph_objects as go
 from nltk.corpus import stopwords
