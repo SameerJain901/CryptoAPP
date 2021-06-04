@@ -5,7 +5,7 @@ import pandas as pd
 import tweepy
 import time
 import nltk
-nltk.download('punkt')
+nltk.download('stopwords')
 
 import plotly.express as px
 import plotly.graph_objects as go
